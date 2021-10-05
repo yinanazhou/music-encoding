@@ -159,6 +159,7 @@
     <classes>
       <memberOf key="att.accidental"/>
       <memberOf key="att.controlEvent"/>
+      <memberOf key="att.pitched"/>
     </classes>
     <attList>
       <attDef ident="func" usage="opt">
